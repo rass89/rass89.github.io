@@ -7,7 +7,7 @@
 
 ## Education
 - Ph.D. Candidate, Structural Engineering (Computational AI Focus) | University of Kansas (2025 – Present)
-Research Focus: Applying Deep Learning and AI-driven methodologies to analyze high-dimensional time-series sensor data and detect anomalies in complex structures.
+Research Focus: Applying Deep Learning and AI-driven methodologies to analyze multimodal data and detect defects in complex structures.
 
 - M.Eng., Systems Analytics | Stevens Institute of Technology (2025)
 Achievements: Full scholarship, Provost Fellowship | GPA: 4.0
