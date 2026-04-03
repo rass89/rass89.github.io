@@ -1,9 +1,9 @@
 # Data Scientist & AI Researcher
 #### Technical Skills: 
-Languages: Python, SQL, R, MATLAB, Julia, HTML, C++, C#
-Machine Learning & AI: Deep Learning, Predictive Modeling, Generative AI (LLMs), Natural Language Processing (NLP), Computer Vision, Reinforcement Learning
-Frameworks & Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, OpenCV, Google Gemini API
-Data & Visualization: Tableau, Power BI, Apache Spark, Git
+- Languages: Python, SQL, R, MATLAB, Julia, HTML, C++, C#
+- Machine Learning & AI: Deep Learning, Predictive Modeling, Generative AI (LLMs), Natural Language Processing (NLP), Computer Vision, Reinforcement Learning
+- Frameworks & Libraries: PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, OpenCV, Google Gemini API
+- Data & Visualization: Tableau, Power BI, Apache Spark, Git
 
 ## Education
 - Ph.D. Candidate, Structural Engineering (Computational AI Focus) | University of Kansas (2025 – Present)
