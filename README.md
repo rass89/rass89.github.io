@@ -10,13 +10,13 @@
 Research Focus: Applying Deep Learning and AI-driven methodologies to analyze multimodal data and detect defects in complex structures.
 
 - M.Eng., Systems Analytics | Stevens Institute of Technology (2025)
-Achievements: Full scholarship, Provost Fellowship | GPA: 4.0
+Achievements: Full scholarship, Provost Fellowship, GPA: 4.0
 
 - M.S., Structures Design | Sharif University of Technology (2022)
-Achievements: Full scholarship, Ranked 5th in nationwide M.Sc. entrance exam in Aerospace Engineering
+Achievements: Full scholarship, ranked 5th in the nationwide M.Sc. entrance exam in Aerospace Engineering
 
 - B.S., Electronic and Communication | Chabahar Maritime University (2011)
-Achievements: Full scholarship, Top 1% in nationwide universities entrance exam
+Achievements: Full scholarship, Top 1% in nationwide university entrance exam
 
 ## Work Experience 
 **Project Manager @ Elm Kar Sanaat Institute (Apr 2018 – Sep 2023)**
