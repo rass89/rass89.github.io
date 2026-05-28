@@ -65,21 +65,23 @@ Achievements: Full scholarship, Top 1% in nationwide university entrance exam
 
 
 ## Publications
-- Ataei, S., et al. (2026). "Artificial Intelligence in Bridge Structural Health Monitoring: A Comprehensive Systematic Analysis of Methods, Models, and Applications". Archives of Computational Methods in Engineering, Springer Netherlands.
+- Ataei, S., Ataei, S.T., Rahmani, Z. et al. Artificial Intelligence in Bridge Structural Health Monitoring: A Comprehensive Systematic Analysis of Methods, Models, and Applications. Arch Computat Methods Eng (2026). https://doi.org/10.1007/s11831-026-10566-y
 
-- Mohammadagha, M., Khoshkonesh, A., Sharifi, S., Belbasi, A. A., Ghanbarizadeh, V., Ataei, S., et al. (2026). "Machine Learning Stacking Ensemble for Condition Assessment of Power Cable Networks". Engineering Archive.
+- Mohammadagha, Mohsen, et al. "Machine Learning Stacking Ensemble for Condition Assessment of Power Cable Networks."
 
-- Ataei, S., et al. (2026). "D2H-AD: A Hybrid Model Utilizing Hyperdimensional Computing for Advanced Anomaly Detection". IEEE Access (Accepted).
+- G. Ghajari, E. Ghajari, A. Ghimire, S. Ataei, F. Alsulami and F. Amsaad, "D2H-AD: A Hybrid Model Utilizing Hyperdimensional Computing for Advanced Anomaly Detection," in IEEE Access, vol. 14, pp. 55227-55247, 2026, doi: 10.1109/ACCESS.2026.3677763. 
 
-- Ataei, S., et al. (2026). "Meta-Ensemble Learning for Corrosion Detection in Steel Bridges". International Association of Bridge Management and Safety (IABMAS).
+- Ataei, Saeid, et al. (2026). "Meta-Ensemble Learning for Corrosion Detection in Steel Bridges". International Association of Bridge Management and Safety (IABMAS).
 
-- Ataei, S., et al. (2025). "Data-driven detection and evaluation of damages in concrete structures: Using deep learning and computer vision". Applied Data Science in Engineering and Health.
+- Attard, Luke, et al. (2026). "Human-Centered Steel Bridge Inspection with Augmented Reality and AI". International Association of Bridge Management and Safety (IABMAS).
+
+- Ataei, Saeid, Saeed Adibnazari, and Seyyed Taghi Ataei. "Data-driven Detection and Evaluation of Damages in Concrete Structures: Using Deep Learning and Computer Vision." International Journal of Applied Data Science in Engineering and Health 1.1 (2026): 1-18.
 
 - Ameli Kolkhoran, S. M., Ataei, S., et al. (2025). "Deep Reinforcement Learning for Dynamic Pricing Strategies: Empirical Evidence from E-Commerce Platforms". International Journal of Science and Engineering Applications.
 
-- Ataei, S., et al. (2025). "Applications of Deep Learning to Cryptocurrency Trading: A Systematic Analysis". Soft Computing Fusion With Applications.
+- Ataei, Saeid, et al. "Applications of Deep Learning to Cryptocurrency Trading: A Systematic Analysis." Soft Computing Fusion with Applications (2025).
 
-- Ataei, S., et al. (2025). "A Systematic Review on the Application of Artificial Intelligence in Decentralized Finance". International Journal of Applied Data Science in Engineering and Health.
+- Ataei, Saeid, et al. "A Systematic Review on the Application of Artificial Intelligence in Decentralized Finance." International Journal of Applied Data Science in Engineering and Health 1.3 (2025): 16-27.
   
 
 ## Academic & Professional Service
