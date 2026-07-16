@@ -6,16 +6,16 @@
 - Data & Visualization: Tableau, Power BI, Apache Spark, Git
 
 ## Education
-- Ph.D. Candidate, Structural Engineering (Computational AI Focus) | University of Kansas (2025 – Present)
+- Research Assistant, Structural Engineering (Computational AI Focus) | University of Kansas (2025 – Present)
 Research Focus: Applying Deep Learning and AI-driven methodologies to analyze multimodal data and detect defects in complex structures.
 
-- M.Eng., Systems Analytics | Stevens Institute of Technology (2025)
+- Master's, Systems Analytics | Stevens Institute of Technology (2025)
 Achievements: Full scholarship, Provost Fellowship, GPA: 4.0
 
-- M.S., Structures Design | Sharif University of Technology (2022)
+- Master's, Structures Design | Sharif University of Technology (2022)
 Achievements: Full scholarship, ranked 5th in the nationwide M.Sc. entrance exam in Aerospace Engineering
 
-- B.S., Electronic and Communication | Chabahar Maritime University (2011)
+- Bachelor's, Electronic and Communication | Chabahar Maritime University (2011)
 Achievements: Full scholarship, Top 1% in nationwide university entrance exam
 
 ## Work Experience 
